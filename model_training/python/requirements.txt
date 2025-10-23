@@ -1,0 +1,6 @@
+matplotlib==3.10.1
+numpy==2.2.4
+optuna==4.2.1
+scikit-learn==1.6.1
+scikit-survival==0.24.1seaborn==0.13.2
+torch==2.6.0

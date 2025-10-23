@@ -1,0 +1,13 @@
+case_id,slide_id,label
+patient_0,slide_0,subtype_1
+patient_1,slide_1,subtype_3
+patient_2,slide_2,subtype_1
+patient_3,slide_3,subtype_1
+patient_4,slide_4,subtype_3
+patient_5,slide_5,subtype_3
+patient_6,slide_6,subtype_2
+patient_7,slide_7,subtype_3
+patient_8,slide_8,subtype_3
+patient_9,slide_9,subtype_2
+patient_9,slide_10,subtype_1
+patient_10,slide_11,subtype_2

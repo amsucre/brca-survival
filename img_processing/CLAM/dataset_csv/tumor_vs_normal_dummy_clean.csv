@@ -1,0 +1,15 @@
+case_id,slide_id,label
+patient_0,slide_0,tumor_tissue
+patient_0,slide_1,normal_tissue
+patient_1,slide_2,tumor_tissue
+patient_2,slide_3,normal_tissue
+patient_2,slide_4,normal_tissue
+patient_3,slide_5,normal_tissue
+patient_4,slide_6,normal_tissue
+patient_5,slide_7,tumor_tissue
+patient_6,slide_8,normal_tissue
+patient_7,slide_9,tumor_tissue
+patient_7,slide_10,normal_tissue
+patient_8,slide_11,normal_tissue
+patient_9,slide_12,normal_tissue
+patient_10,slide_13,normal_tissue

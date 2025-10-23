@@ -1,0 +1,37 @@
+NAME	CODE	LEVEL
+Breast	BREAST	1
+Adenomyoepithelioma of the Breast	BRAME	2
+Invasive Breast Carcinoma	BRCA	2
+Juvenile Secretory Carcinoma of the Breast	JSCB	2
+Metaplastic Breast Cancer	MBC	2
+Breast Lobular Carcinoma In Situ	LCIS	2
+Breast Sarcoma	PBS	2
+Inflammatory Breast Cancer	IBC	2
+Breast Ductal Carcinoma In Situ	DCIS	2
+Breast Neoplasm, NOS	BNNOS	2
+Breast Fibroepithelial Neoplasms	BFN	2
+Breast Carcinoma with Signet Ring	BRSRCC	3
+Fibroadenoma	FA	3
+Breast Invasive Carcinoma, NOS	BRCNOS	3
+Breast Invasive Mixed Mucinous Carcinoma	IMMC	3
+Solid Papillary Carcinoma of the Breast	SPC	3
+Breast Invasive Ductal Carcinoma	IDC	3
+Breast Invasive Lobular Carcinoma	ILC	3
+Adenoid Cystic Breast Cancer	ACBC	3
+Breast Invasive Carcinosarcoma, NOS	CSNOS	3
+Mixed Type Metaplastic Breast Cancer	MMBC	3
+Paget Disease of the Nipple	PD	3
+Epithelial Type Metaplastic Breast Cancer	EMBC	3
+Breast Mixed Ductal and Lobular Carcinoma	MDLC	3
+Breast Invasive Cancer, NOS	BRCANOS	3
+Breast Angiosarcoma	BA	3
+Phyllodes Tumor of the Breast	PT	3
+Metaplastic Adenosquamous Carcinoma	MASC	4
+Metaplastic Adenocarcinoma with Spindle Cell Differentiation	MASCC	4
+Carcinoma with Chondroid Metaplasia	CCHM	4
+Metaplastic Squamous Cell Carcinoma	MSCC	4
+Malignant Phyllodes Tumor of the Breast	MPT	4
+Carcinoma with Osseous Metaplasia	COM	4
+Benign Phyllodes Tumor of the Breast	BPT	4
+Borderline Phyllodes Tumor of the Breast	BLPT	4
+Metaplastic Carcinosarcoma	MCS	4
